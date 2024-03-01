@@ -1,1 +1,3 @@
-# Data mining and Sentiment analysis of youtube comments and bsky replies for presidential elections 2024
+$$
+{\text} Data mining and Sentiment analysis of Youtube comments and Bluesky replies for US Presidential Elections 2024
+$$
