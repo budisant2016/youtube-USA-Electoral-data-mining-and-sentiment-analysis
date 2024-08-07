@@ -1,10 +1,10 @@
 $$
-\text{Data mining and Sentiment analysis of YouTube comments and Bluesky replies for US Presidential Elections 2024}
+\text{Data mining and Sentiment analysis of YouTube comments for US Presidential Elections 2024}
 $$  
 
   
 Steps involved:
-1. Data Collection using APIs
+1. Data Collection menggunakan Google APIs
 2. Preprocessing Text data using nltk and regex
-3. Sentiment Analysis using VADER, TextBlob and opinion_lexicon
-4. Visualizations using matplotlib and seaborn
+3. Sentiment Analysis using VADER, TextBlob dan opinion_lexicon
+4. Visualisasi dengan matplotlib dan seaborn
