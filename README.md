@@ -3,7 +3,7 @@ $$
 $$  
 
   
-Step bu step:
+Step by step:
 1. Data Collection menggunakan Google APIs
 2. Preprocessing Text data using nltk and regex
 3. Sentiment Analysis using VADER, TextBlob dan opinion_lexicon
